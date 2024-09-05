@@ -1,7 +1,7 @@
 # SMS_spam-Model
 
 
-nltk (Natural Language Toolkit) module in Python is a powerful library used for working with human language data (text). It provides tools for tasks like tokenization, parsing, stemming, tagging, and more. It's widely used in natural language processing (NLP) for research and development of text-based applications.
+USed nltk (Natural Language Toolkit) module,, which is a module in Python is a powerful library used for working with human language data (text). It provides tools for tasks like tokenization, parsing, stemming, tagging, and more. It's widely used in natural language processing (NLP) for research and development of text-based applications.
 
 Learnt a lot of new models building this project and learnt the importance of check every possible method and algorithm to best optimize the results. nltk has given me some ideas about some future projects I can build.
 
